@@ -64,7 +64,7 @@
 
   ### xsin(π/x)是否存在极限:
 
-  因为|xsin(π/x)| < |x|并且|x|的极限为0故可知 如果|xsin(π/x)|有极限L1 则 L1必为0
+  因为|xsin(π/x)| <= |x|并且|x|的极限为0故可知 如果|xsin(π/x)|有极限L1 则 L1必为0
   那么xsin(π/x)是否有极限则需要判断是否存在delta使得当|x-0| < delta时对于任意epsilon有 |xsin(π/x)-0|<|x-0|< epsilon ，明显delta = epsilon 
   满足条件。
 
