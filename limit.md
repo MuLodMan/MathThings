@@ -3,7 +3,7 @@
 ## 感性认知
 
 假设你之前接触过极限,先看一个例子:
-讨论当x->0时函数 sin(π/x) 的极限。注意x不能取到0。该函数的图像为![sin(π/x)](https://raw.githubusercontent.com/MuLodMan/MathThings/master/rsin(π%3Ax).png)
+讨论当x->0时函数 sin(π/x) 的极限。注意x不能取到0。该函数的图像为![sin(π/x)](https://raw.githubusercontent.com/MuLodMan/MathThings/master/rsin(π%3Ax).png)
 让我们在0的附近将图像放大一下,再美化一些![sin(π/x)](https://raw.githubusercontent.com/MuLodMan/MathThings/master/sin(π%3Ax)Max.png)
 
 如果之前你没学过极限，仅仅凭借直觉判断，可能会想，当x->0时应该有极限啊，毕竟当x无限趋近于0时x肯定能取到一个常数并且这个常数一定小于1。但是如果你看过一些高数教材，或者上过高数课，你可能会说这怎么可能会有极限吗,极限是具有趋向性的。虽然这两种说法看似都有道理，但是正确答案当x->0时该函数没有极限。如果你判断是正确的，就说明你已经对极限有了一定的理解，那么请问当x->0时xsin(π/x)有极限吗？em....让我们再看看xsinx在x=0附近的图像
